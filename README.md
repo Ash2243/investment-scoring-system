@@ -2,101 +2,80 @@
 
 ## 🚀 Project Overview
 
-This project focuses on building a data-driven Investment Scoring System that evaluates firms based on multiple financial and performance indicators.  
-The goal is to transform raw business data into a structured scoring model that helps in comparing and ranking companies objectively.
+This project focuses on building a data-driven Investment Scoring System to evaluate and rank firms based on multiple financial and performance indicators.  
+The objective is to convert raw business data into meaningful scores that support smarter investment decisions.
 
 ---
 
-## 🎯 Objective
+## 🎯 Objectives
 
-- Build a scoring model to evaluate firms using multiple parameters
-- Identify high-performing companies using data-driven insights
-- Visualize investment potential using interactive dashboards
-- Support decision-making with analytical insights
-
----
-
-## 🧠 Key Features
-
-- Data preprocessing and cleaning of financial dataset
-- Feature engineering for scoring logic
-- Weighted scoring system for firm evaluation
-- Ranking of firms based on final investment score
-- Interactive Power BI dashboard for visualization
-- Insight generation for business interpretation
+- Analyze firm performance using structured data
+- Build a scoring model using key indicators
+- Rank firms based on investment potential
+- Generate business insights through data visualization
+- Support decision-making with an interactive dashboard
 
 ---
 
-## ⚙️ Tech Stack
+## 🛠️ Tools & Technologies
 
-- **Python** (Pandas, NumPy, Scikit-learn)
-- **SQL** (data extraction and filtering logic)
-- **Power BI** (dashboard and visualization)
-- **Jupyter Notebook**
-- **Data Analysis & Feature Engineering techniques**
-
----
-
-## 📊 Methodology
-
-### 1. Data Collection & Cleaning
-- Handled missing values and inconsistent data
-- Standardized numerical features for analysis
-
-### 2. Feature Engineering
-- Created derived metrics for firm evaluation
-- Normalized data for fair comparison
-
-### 3. Scoring Model
-- Applied weighted scoring approach
-- Combined multiple indicators into a single investment score
-
-### 4. Ranking System
-- Ranked firms based on final computed score
-- Identified top-performing companies
-
-### 5. Visualization
-- Built Power BI dashboard for interactive insights
-- Used charts to compare firms across key metrics
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Power BI
+- SQL
+- Jupyter Notebook
 
 ---
 
-## 📈 Key Outcomes
+## 📈 Project Workflow
 
-- Successfully built a structured investment scoring model
-- Identified top-performing firms using data-driven ranking
-- Created an interactive dashboard for business insights
-- Improved understanding of real-world financial data analysis
+1. Data Cleaning & Preprocessing  
+2. Exploratory Data Analysis  
+3. Feature Engineering  
+4. Investment Score Calculation  
+5. Ranking Firms  
+6. Dashboard Creation  
+7. Business Insights & Recommendations
+
+---
+
+## 📊 Key Features
+
+- Weighted scoring model
+- Firm ranking system
+- Interactive dashboard
+- Insight-driven decision support
+- Clean and structured workflow
 
 ---
 
 ## 📷 Dashboard Preview
 
-*(Add screenshot of your Power BI dashboard here)*
+*(Add screenshots here later)*
 
 ---
 
-## 💡 What I Learned
+## 💡 Learnings
 
-- Real-world application of data preprocessing and feature engineering
-- How to convert raw data into business insights
-- Importance of weighting systems in scoring models
-- Dashboard storytelling using Power BI
-- End-to-end workflow from data to decision-making
+- Data preprocessing for business use cases
+- Scoring logic design
+- Dashboard storytelling
+- Applying analytics for decision-making
 
 ---
 
 ## 📌 Future Improvements
 
-- Integrate machine learning model for predictive scoring
-- Deploy dashboard using Streamlit or web app
-- Automate data pipeline for real-time scoring
-- Improve scoring model with advanced feature weighting techniques
+- Deploy as Streamlit web app
+- Add predictive modeling
+- Real-time data integration
+- Automated scoring pipeline
 
 ---
 
-## 📫 Author
+## 👤 Author
 
-**Ash**  
-Data & AI Enthusiast  
-Focused on Machine Learning, Data Analytics, and Real-world AI Systems
+Ash  
+Data & AI Enthusiast
