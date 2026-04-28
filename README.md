@@ -53,11 +53,11 @@ The objective is to convert raw business data into meaningful scores that suppor
 
 ## 📷 Dashboard Preview
 
-![Dashboard](visuals/dashboard.png)
+![Dashboard](Visuals/dashboard.png)
 
 ## 📉 Risk vs Return Analysis
 
-![Scatterplot](visuals/risk_vs_return_scatterplot.png)
+![Scatterplot](Visuals/risk_vs_return_scatterplot.png)
 
 ## 💡 Learnings
 
