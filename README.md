@@ -85,6 +85,7 @@ This project also includes an interactive Streamlit application for exploring fi
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+```
 ---
 
 ## 👤 Author
