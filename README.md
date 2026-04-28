@@ -76,6 +76,16 @@ The objective is to convert raw business data into meaningful scores that suppor
 - Automated scoring pipeline
 
 ---
+## 🌐 Streamlit Web App
+
+This project also includes an interactive Streamlit application for exploring firm rankings, dataset previews, and risk vs return insights.
+
+### Run Locally
+
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+---
 
 ## 👤 Author
 
